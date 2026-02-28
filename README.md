@@ -22,5 +22,5 @@ DM **9ohf** on Discord, credit is forever etched in commit history.
 
 ![PortalLinks](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Portal%20Links&fontSize=80&fontColor=ffffff)
 
-- **[<span style="color:#8be9fd">SeaLib Website</span>](ks0wavus511u.space.minimax.io)** – Landing Page
+- **[<span style="color:#8be9fd">SeaLib Website</span>](https://ks0wavus511u.space.minimax.io)** – Landing Page
 - **[<span style="color:#ff79c6">GitHub Repo</span>](https://github.com/siddaintit/SeaLib)** – Guess where you are, right there
