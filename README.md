@@ -1,11 +1,11 @@
 <div align="center">
-<img width="150" height="150" alt="1000223684" src="https://pin.it/kUhheEwbO" />
+<img width="150" height="150" alt="1000223684" src="https://files.catbox.moe/ayxyvi" />
 
 
 <div align="center">
  
  <h1>
-    <span style="font-size:0">SeaaLib</span>
+    <span style="font-size:0">SeaLib</span>
   </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=25&duration=4000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=%E2%9C%A6+AI+Archieve+%26+Library+%E2%9C%A6)](https://git.io/typing-svg)
